@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <a href= "https://twitter.com/ari_hacks"><img src="<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/>"/></a>
+  <a href= "https://twitter.com/ari_hacks"><img src="<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/></a>
 </p>
