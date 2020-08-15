@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+  <a href= "https://www.linkedin.com/in/duarte-matos-9b90a518b/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
 </p>
