@@ -1,4 +1,4 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f3/63/65/f36365de739bb0f89ee3310924216fcc.gif" />
+  <img src="https://media2.giphy.com/media/3o85xGmIbdnDpUm9Vu/giphy.gif" />
 </p>
