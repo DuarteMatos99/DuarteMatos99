@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <a href= "https://www.linkedin.com/in/duarte-matos-9b90a518b/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg"/></a>
+  <a href= "https://www.linkedin.com/in/duarte-matos-9b90a518b/"><img src="https://icons-for-free.com/iconfiles/png/128/linkedin+logo+network+social+icon-1320086236762700855.png"/></a>
 </p>
