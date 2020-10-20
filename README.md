@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/duarte-matos-9b90a518b/">
-    <img width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
 </p>
