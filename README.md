@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 
-<p align="right">
-  <img width="150px" src="https://data.whicdn.com/images/245454629/original.gif" />
+<p align="center">
+  <img width="120px" src="https://data.whicdn.com/images/245454629/original.gif" />
 </p>
